@@ -1,0 +1,4 @@
+python version: 
+Python 3.9.7
+pip version: 
+pip 24.0 from C:\00_git\Syr_SafeTech\venv\lib\site-packages\pip (python 3.9)

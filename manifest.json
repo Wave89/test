@@ -1,0 +1,7 @@
+{
+    "domain": "Syr",
+    "name": "Syr SafeTech",
+    "requirements": [],
+    "iot_class": "assumed_state",
+    "version": "0.0.1"
+}
