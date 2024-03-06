@@ -1,1 +1,0 @@
-# Syr_SafeTech
