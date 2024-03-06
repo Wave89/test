@@ -1,7 +1,17 @@
 {
     "domain": "Syr",
     "name": "Syr SafeTech",
-    "requirements": [],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://github.com/Wave89/test",
+    "homekit": {},
     "iot_class": "assumed_state",
+    "issue_tracker": "https://github.com/Wave89/test/issues",
+    "loggers": [
+      "syr_component"
+    ],
+    "requirements": [],
+    "ssdp": [],
+    "zeroconf": [],
     "version": "0.0.1"
 }
